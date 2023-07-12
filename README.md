@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-<!--   <img src="https://minimalistic-wallpaper.demolab.com/?random" alt="wallpaper" style="width: 80%; height: auto;"> -->
-  <img src="https://images8.alphacoders.com/131/1318523.png" alt="wallpaper" style="width: 100%; height: auto;">
+  <img src="https://minimalistic-wallpaper.demolab.com/?random" alt="wallpaper" style="width: 90%; height: auto;">
+<!--   <img src="https://images8.alphacoders.com/131/1318523.png" alt="wallpaper" style="width: 100%; height: auto;"> -->
   
 </div>
 
