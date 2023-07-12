@@ -1,10 +1,10 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=raleway&weight=800&size=18&duration=3000&pause=1000&&color=56F71D&center=true&width=435&lines=Hey+There+Programmers+%F0%9F%98%8E;I'm+Steven+Sookhai+%E2%9C%8C;I'm+A+Software+Engineer!;Javascript;Typescript;Python;Java;+React;Next.js;Node.js;SQL;Prisma;API+integration;Backend+Development;Frontend+Development;Full+Stack+Develpoment" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=raleway&weight=800&size=28&duration=3000&pause=1000&&color=56F71D&center=true&width=435&lines=Hey+There+Programmers+%F0%9F%98%8E;I'm+Steven+Sookhai+%E2%9C%8C;I'm+A+Software+Engineer!;Javascript;Typescript;Python;Java;+React;Next.js;Node.js;SQL;Prisma;API+integration;Backend+Development;Frontend+Development;Full+Stack+Develpoment" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
 <!--   <img src="https://minimalistic-wallpaper.demolab.com/?random" alt="wallpaper" style="width: 80%; height: auto;"> -->
-  <img src="https://images8.alphacoders.com/131/1318523.png" alt="wallpaper" style="width: 80%; height: auto;">
+  <img src="https://images8.alphacoders.com/131/1318523.png" alt="wallpaper" style="width: 100%; height: auto;">
   
 </div>
 
