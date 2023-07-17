@@ -16,7 +16,7 @@ Hi 👋, I'm Steven Sookhai, I am a software engineer experienced with Python, J
 
 - 🌱 I’m currently learning **Java, Spring Boot and GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://stevensookhai.github.io/Portfolio/](https://stevensookhai.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://stevensookhai.github.io/Portfolio/](stevensookhai.com)
 
 - 💬 Ask me about **Ask me about anything I've worked on or anything in general!**
 
