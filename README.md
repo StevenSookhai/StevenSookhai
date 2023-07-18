@@ -18,7 +18,7 @@ Hi 👋, I'm Steven Sookhai, I am a software engineer experienced with Python, J
 
 - 👨‍💻 All of my projects are available at [https://www.stevensookhai.com/](https://www.stevensookhai.com/)
 
-- 💬 Ask me about **Ask me about anything I've worked on or anything in general!**
+- 💬 Ask me about **anything I've worked on or anything in general!**
 
 - 📫 How to reach me **stevensookhai@gmail.com**
 
