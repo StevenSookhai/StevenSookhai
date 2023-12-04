@@ -14,8 +14,6 @@ Hi 👋, I'm Steven Sookhai, I am a software engineer experienced with Python, J
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevensookhai&label=Profile%20views&color=0e75b6&style=flat" alt="stevensookhai" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring Boot and GraphQL**
-
 - 👨‍💻 All of my projects are available at [https://www.stevensookhai.com/](https://www.stevensookhai.com/)
 
 - 💬 Ask me about **anything I've worked on or anything in general!**
